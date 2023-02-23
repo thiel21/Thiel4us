@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thiel4us or thiel
+- 👋 Hi, I’m thiel
 - 👀 I’m interested in movies, games and coding...?
 - 🌱 I’m currently learning how to code and javascript and a little bit of html
 - 💞️ I’m looking to collaborate on github
